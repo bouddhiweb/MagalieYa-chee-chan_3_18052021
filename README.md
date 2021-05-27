@@ -25,6 +25,12 @@ Un rapport d’optimisation comprenant une comparaison des résultats (y compris
 > 
 > [Voir le site optmisé](https://bouddhiweb.github.io/MagalieYa-chee-chan_4_18052021/)
 
+# Optimisation 
+
+> [Lien de validation W3C HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbouddhiweb.github.io%2FMagalieYa-chee-chan_4_18052021%2F)
+
+> [Lien de validation W3C CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbouddhiweb.github.io%2FMagalieYa-chee-chan_4_18052021%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
+
 > [Test de vistesse de chargement de page - Site non-optimisé](https://tools.pingdom.com/#5e6ba28871c00000)
 
 > [Test de vistesse de chargement de page - Site optimisé](https://tools.pingdom.com/#5e6b8535f3400000)
