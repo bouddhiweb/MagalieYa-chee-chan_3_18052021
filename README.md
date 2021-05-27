@@ -25,6 +25,6 @@ Un rapport d’optimisation comprenant une comparaison des résultats (y compris
 > 
 > [Voir le site optmisé](https://bouddhiweb.github.io/MagalieYa-chee-chan_4_18052021/)
 
-> [Test de vistesse de chargement de page - Site non-optimisé](https://tools.pingdom.com/)
+> [Test de vistesse de chargement de page - Site non-optimisé](https://tools.pingdom.com/#5e6ba28871c00000)
 
 > [Test de vistesse de chargement de page - Site optimisé](https://tools.pingdom.com/#5e6b8535f3400000)
