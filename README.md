@@ -16,11 +16,13 @@ Un rapport d’optimisation comprenant une comparaison des résultats (y compris
 # Ressources à télécharger
 
 > [Télécharger les maquettes](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)
+> 
 > [Télécharger le modèle pour l'audit](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx)
 
 # Le site à optimiser 
 
-> [Voir le site non-optmisé](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx)
+> [Voir le site non-optmisé](#)
+> 
 > [Voir le site optmisé](https://bouddhiweb.github.io/MagalieYa-chee-chan_4_18052021/)
 
 
